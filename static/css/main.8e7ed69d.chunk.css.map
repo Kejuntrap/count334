@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACE,cACF,CACA,OACE,YACF","file":"main.8e7ed69d.chunk.css","sourcesContent":["p {\n  font: 48px \"Lato\";\n}\nbutton {\n  padding:60px;\n}"]}
